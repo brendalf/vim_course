@@ -13,19 +13,21 @@ your workflow with TMUX.
 > Yes, you'll learn how to exit vim.
 
 ## Summary
-1. What is Vim?
+This is a one hour talk, divided in:
+
+1. What is Vim? (5 min)
     - Vim
     - Neovim
-2. Why Vim?
+2. Why Vim? (25 min)
     - Vim Modes
     - Vim Basic
     - Vim Plugins 
     - Demo
-3. Integrating with Tmux
+3. Integrating with Tmux (15 min)
     - What is Tmux?
     - Tmux configuration.
-4. Next Steps
+4. Next Steps (5 min)
     - Recommended Content.
     - VSCode + Vim Integration.
     - Building Your Onw Config.
-5. Q&A
+5. Q&A (5 min)
