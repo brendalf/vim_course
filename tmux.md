@@ -1,21 +1,26 @@
-# Integrating with Tmux
-You can achieve even more productivity by integrating your workflow with tmux.
-Tmux is a necessary tool in the tool belt of any software engineer, even if you
-don't use vim.
+# Vim + Tmux
+
+You can improve your productivity even more by integrating vim workflow with
+tmux in your workflow.
+
+> Tmux is a necessary tool in the tool belt of any software engineer, even if you don't use vim.
 
 ## What is Tmux?
-Tmux is an open source terminal multipleexer for Unix-like operating systems.
+
+Tmux is an open source **T**erminal **MU**ltipleXer for Unix-like operating systems.
+
 It allows multiple terminal sessions to be accessed simultaneously in a single
 window.
+
 It's useful for running more than one command-line program at the same time.
 
 > You can also detach processes from their controlling terminals, allowing
 > remote sessions to remain active without being visible.
 
-## Tmux demo
-Quick demo. For more information: https://tmuxcheatsheet.com/
+Let's do a quick demo.
+For more information: https://tmuxcheatsheet.com/
 
-### Manage session
+## Manage session
 **List sessions**:
 `tmux ls`
 `Ctrl+b s`
@@ -38,7 +43,7 @@ Quick demo. For more information: https://tmuxcheatsheet.com/
 **Attach to a session**:
 `tmux a -t SESSION_ID`
 
-### Manage windows
+## Manage windows
 **Create a window**:
 `Ctrl+b c`
 
@@ -49,7 +54,7 @@ Quick demo. For more information: https://tmuxcheatsheet.com/
 `Ctrl+b n / Ctrl+b p`
 ``Ctrl+b [0..9]``
 
-### Panes
+## Panes
 **Split pane horizontally**:
 `Ctrl+b %`
 
@@ -71,7 +76,7 @@ Quick demo. For more information: https://tmuxcheatsheet.com/
 **Resize panes**:
 `Ctrl+b+h / Ctrl+b+j / Ctrl+b+k / Ctrl+b+l`
 
-### Copy Mode
+## Copy Mode
 **Enter copy mode**:
 `Ctrl+b [`
 
@@ -94,4 +99,3 @@ You can customize things like:
 - Colour
 - Basic Settings
 - Powerline
-

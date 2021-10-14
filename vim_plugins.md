@@ -1,4 +1,4 @@
-## Vim Plugins
+# Vim Plugins
 
 Vim has a lot of plugin managers.
 The one I use is the https://github.com/junegunn/vim-plug. 
