@@ -1,11 +1,11 @@
 # Vim Course
 
-Welcome to my vim course.
+Welcome to my vim course.  
 I do hope you like it.
 
 ## Before Start 
 
-Vim isn't easy to learn.
+Vim isn't easy to learn.  
 Vim is like a instrument, you need to develop muscle memory.
 
 ## Objectives
@@ -35,22 +35,19 @@ Also, you should understand:
 
 ## Summary
 
-What is Vim? (5 min)
-Why Vim? (25 min)
-Integrating with Tmux (15 min)
-Next Steps (5 min)
-Q&A (5 min)
+* What is Vim?   
+* Why Vim?   
+* Integrating with Tmux  
+* Next Steps  
+* Q&A   
 
 ## Who am I
-
-I started learning how to code a long time ago, so I already used a lot of
-IDEs and Text Editors, like:
-    - Atom, Sublime, Gedit, Notepad++, Adobe Dreamwave, Visual Studio,
-      Eclipse, IntelliJ IDEA (and variants), Netbeans, CodeBlocks,
-      Brackets, and Visual Studio Code (since the release on 2015).
-
-I'm a Linux user since 2009.
-    - Two years after starting using Linux I already had lost count of how many
-      times I couldn't exit vim, so I decided to learn more about it.
-    - Since 2020 I decided to start using vim as my default editor, instead of
-      using just to edit small things.
+* I started learning how to code a long time ago, so I already used a lot of
+IDEs and Text Editors, like:  
+> Atom, Sublime, Gedit, Notepad++, Adobe Dreamwave, Visual Studio,
+> Eclipse, IntelliJ IDEA (and variants), Netbeans, CodeBlocks,
+> Brackets, and Visual Studio Code (since the release in 2015).
+* I'm a Linux user since 2009 and after the first two years using it, I already
+had lost count of how many  times I couldn't exit vim, so I decided  to learn 
+more about it.
+* Since 2020 I decided to start using vim as my default editor, instead of using just to edit small things.
