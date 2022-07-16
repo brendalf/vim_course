@@ -1,7 +1,6 @@
 # Vim Course
 
-Welcome to my vim course.  
-I do hope you like it.
+Welcome to my vim course.
 
 ## Before Start 
 
